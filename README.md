@@ -1,10 +1,5 @@
 # eduOnline_android
-这是我在2015年4,5月份开发的(独立一人),这款产品是面向在线移动教育方面的,由web端(php)＋ios端+android端 .........
-
-心血之作啊,web端的地址:edu.coderss.cn
-
-web端这里诉说一下,web端是由4A小组开发的......不是我一个人开发
-而android和ios基本开发成一套了
+这是我在2015年4,5月份开发的,这款产品是面向在线移动教育方面的,由web端(php)＋ios端+android端 .........
  
 自己开发了android和ios两个客户端
  
